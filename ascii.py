@@ -2,7 +2,7 @@ import cv2
 import os
 
 DENSITY = "$@#&%9865432MZYXWTRQPONLJGDCBwmqpkdbhazoecvunxrjrtI1?}{)(/|!li+~=_-:,^'."
-GRAY_LEVELS = 24
+GRAY_LEVELS = 23
 CHAR_ASPECT_RATIO = 0.4
 COLS = 190
 
