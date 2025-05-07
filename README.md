@@ -1,5 +1,5 @@
 # ASCII Video
-An video to ASCII study.
+An video to ASCII-video study.
 
 This repository was inspired by [The Coding Train](https://youtu.be/55iwMYv8tGI?si=bpstLm4jVdtFQ11m) lesson on the ASCII Text Images.
 
